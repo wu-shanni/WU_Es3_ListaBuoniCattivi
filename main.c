@@ -64,6 +64,7 @@ int main() {
         exit(0);
     }
 
+
     // babbo natale:
 
     // invia N ai due elfi
